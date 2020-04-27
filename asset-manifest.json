@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Metronome/static/css/main.2c593057.chunk.css",
+    "main.js": "/Metronome/static/js/main.774f8712.chunk.js",
+    "main.js.map": "/Metronome/static/js/main.774f8712.chunk.js.map",
+    "runtime-main.js": "/Metronome/static/js/runtime-main.61ac1222.js",
+    "runtime-main.js.map": "/Metronome/static/js/runtime-main.61ac1222.js.map",
+    "static/js/2.5ff25694.chunk.js": "/Metronome/static/js/2.5ff25694.chunk.js",
+    "static/js/2.5ff25694.chunk.js.map": "/Metronome/static/js/2.5ff25694.chunk.js.map",
+    "index.html": "/Metronome/index.html",
+    "precache-manifest.215b8d0b942956e0144a23ee83068ea8.js": "/Metronome/precache-manifest.215b8d0b942956e0144a23ee83068ea8.js",
+    "service-worker.js": "/Metronome/service-worker.js",
+    "static/css/main.2c593057.chunk.css.map": "/Metronome/static/css/main.2c593057.chunk.css.map",
+    "static/js/2.5ff25694.chunk.js.LICENSE": "/Metronome/static/js/2.5ff25694.chunk.js.LICENSE",
+    "static/media/click1.wav": "/Metronome/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/Metronome/static/media/click2.fe0ded65.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ac1222.js",
+    "static/js/2.5ff25694.chunk.js",
+    "static/css/main.2c593057.chunk.css",
+    "static/js/main.774f8712.chunk.js"
+  ]
+}
